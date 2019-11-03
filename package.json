@@ -2,5 +2,7 @@
   "name": "js-o5auaf",
   "version": "0.0.0",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "sha256": "^0.2.0"
+  }
 }
